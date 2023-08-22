@@ -62,6 +62,9 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.12.0")
     annotationProcessor ("com.github.bumptech.glide:compiler:4.12.0")
 
+    //intuit
+    implementation ("com.intuit.sdp:sdp-android:1.1.0")
+
     //gif
     implementation ("pl.droidsonroids.gif:android-gif-drawable:1.2.17")
 
